@@ -1,0 +1,6 @@
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\TestProject2.deps.json
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\TestProject2.dll
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\TestProject2.AssemblyInfo.cs
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\TestProject2.pdb
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\TestProject2.dll
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\TestProject2.pdb

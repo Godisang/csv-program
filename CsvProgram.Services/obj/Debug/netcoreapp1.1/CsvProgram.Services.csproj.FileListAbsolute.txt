@@ -1,0 +1,14 @@
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\CsvProgram.Services.deps.json
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\CsvProgram.Services.dll
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\bin\Debug\netcoreapp1.1\CsvProgram.Services.pdb
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\CsvProgram.Services.AssemblyInfo.cs
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\CsvProgram.Services.dll
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\CsvProgram.Services.pdb
+C:\Users\Godisang\documents\visual studio 2017\Projects\UnitTestProject1\TestProject3\obj\Debug\netcoreapp1.1\CsvProgram.Services.csprojResolveAssemblyReference.cache
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\bin\Debug\netcoreapp1.1\CsvProgram.Services.deps.json
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\bin\Debug\netcoreapp1.1\CsvProgram.Services.dll
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\bin\Debug\netcoreapp1.1\CsvProgram.Services.pdb
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\obj\Debug\netcoreapp1.1\CsvProgram.Services.csprojResolveAssemblyReference.cache
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\obj\Debug\netcoreapp1.1\CsvProgram.Services.AssemblyInfo.cs
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\obj\Debug\netcoreapp1.1\CsvProgram.Services.dll
+C:\Users\Godisang\Documents\Visual Studio 2017\Projects\CsvProgram\CsvProgram.Services\obj\Debug\netcoreapp1.1\CsvProgram.Services.pdb
